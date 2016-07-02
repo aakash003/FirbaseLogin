@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidBashFirebase</string>
+    <string name="action_logout"> Log Out</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="empty_inbox_level">No New Message.</string>
+    <string name="empty_friends_level">No Friends.</string>
+    <string name="menu_edit_friends_label">Edit Friends.</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

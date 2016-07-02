@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1014115417327",
+    "firebase_url": "https://brilliant-inferno-5961.firebaseio.com",
+    "project_id": "brilliant-inferno-5961",
+    "storage_bucket": "brilliant-inferno-5961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014115417327:android:d5bfd7143a37b039",
+        "android_client_info": {
+          "package_name": "com.ash.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014115417327-o3gvs7p9oe00d21a1ro4ptv777upnr4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7codifQUmfezNxwKYKeyx95gc0LtLNwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
